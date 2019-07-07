@@ -12,7 +12,7 @@
         <!-- Styles -->
         <style>
             html, body {
-        color: red;
+        color: blue;
             }
 
             .full-height {
