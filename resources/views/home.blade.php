@@ -119,7 +119,7 @@
                 <div class="grey-square"></div>
                 <div class="video-container">
                     <video width="280" height="240" controls>
-                        <source data-src="{{asset('storage/images/ref-images/sample-video.mp4')}}" type="video/mp4">
+                        <!-- <source data-src="{{asset('storage/images/ref-images/sample-video.mp4')}}" type="video/mp4"> -->
                     </video>
                 </div>
                 <div class="image-container">
